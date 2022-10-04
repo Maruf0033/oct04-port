@@ -5,6 +5,7 @@ body {
     text-shadow: 2px gray;
     background-position: center;
     background-size: cover;
+    margin: 0;
 }
 
 body,
@@ -46,6 +47,7 @@ h1 {
     box-shadow: 10px 10px 8px #272727;
     margin: 10px 10px 10px 10px;
     width: 50%;
+    border-radius: 5px;
 }
 
 .link-button {
@@ -67,9 +69,11 @@ h1 {
     box-shadow: 10px 10px 8px #272727;
     margin: 10px 10px 10px 10px;
     width: 50%;
+    border-radius: 5px;
 }
 
 footer {
     text-align: center;
     margin: 10px 10px 10px 10px;
+    font-size: 16px;
 }
