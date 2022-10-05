@@ -14,12 +14,6 @@
      background-size: auto;
  }
 
- #one {
-     background-image: url(ninja.png);
-     background-position: auto;
-     background-repeat: no-repeat;
- }
-
  h1 {
      font-size: 80px;
      text-shadow: 3px 4px rgb(214, 59, 2);
